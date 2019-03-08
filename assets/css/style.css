@@ -1,4 +1,11 @@
-#topnav{
+.topnav{
     background-color: #4aaaa5;
+}
+
+.topnav h1{
     color: #777777;
+}
+
+h1{
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
