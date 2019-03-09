@@ -13,6 +13,11 @@
     position: relative;
     text-align: center;
     color: #777777;
+    text-decoration: none;
+}
+
+A{
+    text-decoration: none;
 }
 
 
