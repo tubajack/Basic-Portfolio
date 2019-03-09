@@ -1,14 +1,16 @@
 .mainheader{
     background-color: #4aaaa5;
+    border-color: #cccccc;
     color: #ffffff;
     width: 300px;
     height: 50px;
+    padding: 50px 50px 50px 50px;
     box-sizing: border-box;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 .topnav{
-    color: red;
+    color: #777777;
 }
 
 h2{
