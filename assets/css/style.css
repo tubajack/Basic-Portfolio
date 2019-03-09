@@ -10,7 +10,8 @@
 }
 
 .topnav{
-    float: right;
+    position: relative;
+    text-align: center;
     color: #777777;
 }
 
@@ -21,6 +22,4 @@ h2{
 
 body{
     color: #777777;
-    max-width: 50%;
-    max-height: 50%;
 }
