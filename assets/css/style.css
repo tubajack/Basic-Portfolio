@@ -40,8 +40,6 @@ body{
     color: #777777;
 }
 
-picture{
-    width: 50%;
-    height: 50%;
+.picture{
     float: left;
 }
