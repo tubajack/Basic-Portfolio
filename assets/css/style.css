@@ -16,6 +16,10 @@
     text-decoration: none;
 }
 
+#wrapper{
+    width: 960px;
+}
+
 input[type = text], select, textarea{
     width: 100%;
 }
