@@ -16,8 +16,13 @@
     text-decoration: none;
 }
 
+*{
+    width: 960 px;
+}
+
 #wrapper{
     width: 960px;
+    text-align: right;
 }
 
 input[type = text], select, textarea{
