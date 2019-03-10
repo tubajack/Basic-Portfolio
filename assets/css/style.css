@@ -23,6 +23,7 @@ input[type = text], select, textarea{
 input[type = submit]{
     background-color: #4aaaa5;
     color: #ffffff;
+    padding: 10px;
 }
 
 a{
