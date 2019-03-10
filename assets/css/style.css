@@ -16,6 +16,10 @@
     text-decoration: none;
 }
 
+input[type = text], select, textarea{
+    width: 100%;
+}
+
 input[type = submit]{
     background-color: #4aaaa5;
 }
