@@ -43,3 +43,7 @@ body{
 .picture{
     float: left;
 }
+
+p{
+    float: right; 
+}
